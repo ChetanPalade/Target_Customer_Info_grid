@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  padding: 20px;
+  background-image: linear-gradient(hsl(24, 100%, 50%),rgb(129, 147, 168));
+  
+}
+
+form {
+  margin-bottom: 20px;
+  padding: 1px;
+  margin: 1px;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  width: 300px;
+}
+
+button {
+  padding: 10x 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+table , th, td{
+  border: 1px solid black;
+
+}
+
+th,td {
+  padding: 10px;
+  text-align: left;
+}
